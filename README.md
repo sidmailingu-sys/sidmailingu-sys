@@ -6,10 +6,6 @@ My work spans customer-facing websites, PWAs and operational software: ordering 
 
 ## Selected work
 
-### [Maison Blanc](https://maisonblanc.in)
-
-A garment-care platform with customer and rider apps, staff interfaces, tracking and business operations workflows. The project spans Expo apps, Next.js interfaces and an Express backend with PostgreSQL and Redis.
-
 ### [NOIT](https://noit.vercel.app)
 
 A handwriting and PDF notebook PWA with editable ink, chapters, local notebooks and an optional passphrase vault. Built around keeping the writing experience useful on the web.
