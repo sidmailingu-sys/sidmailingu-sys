@@ -18,8 +18,21 @@ An ordering-system project covering shops, menus, customer and vendor orders, an
 
 A website project for the SEDS community at BITS Pilani Hyderabad.
 
+### [Janus](https://janus-seds.vercel.app/)
+
+A website project for Team Janus at SEDS BITS Pilani Hyderabad.
+
+## Application experience
+
+- Customer and vendor ordering flows, shop and menu management, and administrative dashboards.
+- Inventory-management application work for SEDS BITS Pilani Hyderabad.
+- Systems with separate interfaces for different users, backed by shared application logic and data.
+- PWAs, local storage, PDF tools and handwriting interfaces through NOIT.
+
 ## Working with me
 
 I can help with a website build, a small business app, or implementation support for a design or branding team. I start with the workflow and agree on a defined scope, milestones and handover.
 
 For project enquiries: [aekonira@gmail.com](mailto:aekonira@gmail.com)
+
+Also contributed to [Maison Blanc](https://maisonblanc.in) alongside another developer.
