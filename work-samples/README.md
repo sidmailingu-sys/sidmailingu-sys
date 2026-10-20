@@ -6,25 +6,19 @@ I build websites and the workflows behind them: customer journeys, ordering, inv
 
 [Open NOIT](https://noit.vercel.app)
 
-A handwriting and PDF notebook PWA with editable ink, chapters, device-local notebooks and an optional passphrase vault. This is an independent test release. The image below shows the public website's product preview, rather than a screenshot of a customer's notebook.
-
-![NOIT public website and notebook preview](noit-studio-preview.jpg)
+A handwriting and PDF notebook PWA with editable ink, chapters, device-local notebooks and an optional passphrase vault. This is an independent test release.
 
 ## SEDS BITS Pilani Hyderabad
 
 [Open the SEDS website](https://seds-bitsph.vercel.app)
 
-A website project for the SEDS community at BITS Pilani Hyderabad, presenting its teams, projects and chapter activities. This screenshot shows the public website, separate from my inventory-management application work.
-
-![SEDS public website](seds-website.jpg)
+A website project for the SEDS community at BITS Pilani Hyderabad, presenting its teams, projects and chapter activities.
 
 ## Team Janus
 
 [Open the Janus website](https://janus-seds.vercel.app)
 
 A website project presenting the CanSat team's work, engineering, research and sponsorship information.
-
-![Janus public website](janus-website.jpg)
 
 ## Application work
 
