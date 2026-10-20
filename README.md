@@ -16,18 +16,18 @@ A handwriting and PDF notebook PWA with editable ink, chapters, local notebooks 
 
 An ordering-system project covering shops, menus, customer and vendor orders, and administrative workflows. Demo available on request.
 
-### [SEDS BITS Pilani Hyderabad](https://seds-bitsph.vercel.app)
+### [Students for the Exploration and Development of Space (SEDS), **BITS PILANI**](https://seds-bitsph.vercel.app)
 
-A website project for the SEDS community at BITS Pilani Hyderabad.
+A website project for the SEDS community at **BITS PILANI**.
 
 ### [Janus](https://janus-seds.vercel.app/)
 
-A website project for Team Janus at SEDS BITS Pilani Hyderabad.
+A website project for Team Janus at Students for the Exploration and Development of Space (SEDS), **BITS PILANI**.
 
 ## Application experience
 
 - Customer and vendor ordering flows, shop and menu management, and administrative dashboards.
-- Inventory-management application work for SEDS BITS Pilani Hyderabad.
+- Inventory-management application work for Students for the Exploration and Development of Space (SEDS), **BITS PILANI**.
 - Systems with separate interfaces for different users, backed by shared application logic and data.
 - PWAs, local storage, PDF tools and handwriting interfaces through NOIT.
 
