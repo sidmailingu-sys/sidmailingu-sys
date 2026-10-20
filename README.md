@@ -4,7 +4,7 @@ I build websites and the systems behind them.
 
 My work spans customer-facing websites, PWAs and operational software: ordering flows, staff dashboards, inventory and workflows that connect different users in one system.
 
-[See selected work and screenshots](https://github.com/sidmailingu-sys/sidmailingu-sys/tree/main/work-samples)
+[See selected work](https://github.com/sidmailingu-sys/sidmailingu-sys/tree/main/work-samples)
 
 ## Selected work
 
